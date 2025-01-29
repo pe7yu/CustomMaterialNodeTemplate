@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Custom Material Node Template",
+	"Description": "Material expression node template plugin",
+	"Category": "Other",
+	"CreatedBy": "Andrew Laptev",
+	"CreatedByURL": "https://github.com/pe7yu",
+	"DocsURL": "https://github.com/pe7yu/CustomMaterialNodeTemplate",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "CustomMaterialNodeTemplate",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
