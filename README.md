@@ -35,6 +35,7 @@ Here's an example of how the node can be used in a material:
 - **Exponent**: 5.0
 
 This creates a smooth transition from blue to red, with a sharper gradient at the edges.
+![templ](https://github.com/user-attachments/assets/2a1823bc-c36a-457a-bac0-27cd37abdca8)
 
 ## Contributing
 
