@@ -9,7 +9,7 @@ Unreal Engine 5 plugin template for adding custom material expression nodes to t
   - The color smoothly transitions between `InnerColor` and `OuterColor` based on the viewing angle.
   - The `Exponent` parameter controls the sharpness or softness of the transition.
 
-- **Engine Subsystem Module**:
+- **Plugin Module**:
   - Provides a template for creating and registering custom material nodes.
   - Easily extendable for additional functionality.
 
